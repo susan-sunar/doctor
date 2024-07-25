@@ -1,0 +1,40 @@
+
+
+import 'package:untitled/model_class/model_class.dart';
+
+List<allBook>allproduct=[
+  allBook(bookName: "Till the Last Breath",
+      author: "Durjoy Datta",
+      image: "assets/images/boo1.jpg",
+      rating: 5,
+      price: 1500,
+      genre: "friction",
+      publishDate: "October 6,2013" ,
+      views: "Best Book"
+  ),
+   allBook(bookName: "To Kill A Moking bird",
+      author: "Harper Lee",
+      image: "assets/images/boo2.jpg",
+      rating:5,
+      price: 1900,
+      genre: "Classic Friction",
+      publishDate: "February 14,1962" ,
+      views: "Best Book",
+  ),allBook(bookName: "The Color Purple",
+      author: "Alice Lee",
+      image: "assets/images/boo3.jpg",
+      rating:5,
+      price: 1900,
+      genre: "Historical Friction",
+      publishDate: "February 14,1982" ,
+      views: "Best Book",
+  ),allBook(bookName: "Charlotte Bronte",
+      author: "Jane Eyre",
+      image: "assets/images/boo4.jpg",
+      rating:5,
+      price: 1900,
+      genre: "Gothic Friction",
+      publishDate: "October 19,1847" ,
+      views: "Best Book",
+  ),
+];
